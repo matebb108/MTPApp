@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "MTPApp/1.0.0": {
-        "dependencies": {
-          "MTPApp.Core": "1.0.0"
-        },
-        "runtime": {
-          "MTPApp.dll": {}
-        }
-      },
       "MTPApp.Core/1.0.0": {
         "runtime": {
           "MTPApp.Core.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "MTPApp/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "MTPApp.Core/1.0.0": {
       "type": "project",
       "serviceable": false,

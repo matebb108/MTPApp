@@ -1,0 +1,9 @@
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\bin\Debug\netcoreapp2.1\MTPApp.Core.deps.json
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\bin\Debug\netcoreapp2.1\MTPApp.Core.dll
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\bin\Debug\netcoreapp2.1\MTPApp.Core.pdb
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\obj\Debug\netcoreapp2.1\MTPApp.Core.csprojAssemblyReference.cache
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\obj\Debug\netcoreapp2.1\MTPApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\obj\Debug\netcoreapp2.1\MTPApp.Core.AssemblyInfoInputs.cache
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\obj\Debug\netcoreapp2.1\MTPApp.Core.AssemblyInfo.cs
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\obj\Debug\netcoreapp2.1\MTPApp.Core.dll
+C:\Users\Phuthanet.p\MTPApp\MTPApp.Core\obj\Debug\netcoreapp2.1\MTPApp.Core.pdb

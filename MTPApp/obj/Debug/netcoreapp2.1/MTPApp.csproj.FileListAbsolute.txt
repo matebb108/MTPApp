@@ -9,3 +9,17 @@ C:\Users\Phuthanet.p\source\repos\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.A
 C:\Users\Phuthanet.p\source\repos\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.AssemblyInfo.cs
 C:\Users\Phuthanet.p\source\repos\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.dll
 C:\Users\Phuthanet.p\source\repos\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.pdb
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.deps.json
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.runtimeconfig.json
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.runtimeconfig.dev.json
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.dll
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.pdb
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.Core.dll
+C:\Users\Phuthanet.p\MTPApp\MTPApp\bin\Debug\netcoreapp2.1\MTPApp.Core.pdb
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.csprojAssemblyReference.cache
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.csproj.CoreCompileInputs.cache
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.AssemblyInfoInputs.cache
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.AssemblyInfo.cs
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.csproj.CopyComplete
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.dll
+C:\Users\Phuthanet.p\MTPApp\MTPApp\obj\Debug\netcoreapp2.1\MTPApp.pdb
