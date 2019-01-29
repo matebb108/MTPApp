@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phuthanet.p\\MTPApp\\MTPApp\\MTPApp.csproj",
+      "projectUniqueName": "C:\\Users\\Phuthanet.p\\Desktop\\MTPApp\\MTPApp\\MTPApp.csproj",
       "projectName": "MTPApp",
-      "projectPath": "C:\\Users\\Phuthanet.p\\MTPApp\\MTPApp\\MTPApp.csproj",
+      "projectPath": "C:\\Users\\Phuthanet.p\\Desktop\\MTPApp\\MTPApp\\MTPApp.csproj",
       "packagesPath": "C:\\Users\\Phuthanet.p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phuthanet.p\\MTPApp\\MTPApp\\obj\\",
+      "outputPath": "C:\\Users\\Phuthanet.p\\Desktop\\MTPApp\\MTPApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Phuthanet.p\\MTPApp\\MTPApp.Core\\MTPApp.Core.csproj": {
-              "projectPath": "C:\\Users\\Phuthanet.p\\MTPApp\\MTPApp.Core\\MTPApp.Core.csproj"
+            "C:\\Users\\Phuthanet.p\\Desktop\\MTPApp\\MTPApp.Core\\MTPApp.Core.csproj": {
+              "projectPath": "C:\\Users\\Phuthanet.p\\Desktop\\MTPApp\\MTPApp.Core\\MTPApp.Core.csproj"
             }
           }
         }
