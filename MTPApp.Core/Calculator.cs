@@ -8,6 +8,7 @@ namespace MTPApp.Core
         private int _total;
         private List<int> _saveinput;
         private Boolean _abs;
+
         public Calculator()
         {
             _total = 0;
@@ -50,6 +51,8 @@ namespace MTPApp.Core
             return _saveinput;
         }
 
+
+        
 
     }
 }
